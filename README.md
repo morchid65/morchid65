@@ -38,6 +38,11 @@
 - **Virtualisation** : Utilisation de VirtualBox et VMware.
 - **Langues** : Français (natif), Anglais (courant).
 
+### 📊 Mon Activité et mes Contributions
+
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=morchid65&theme=react)
+
+![Contribution Grid](https://github-contributions-stats.vercel.app/api?username=morchid65&theme=radical)
 
 ### Connectons-nous !
 <p align="left">
