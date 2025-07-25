@@ -21,4 +21,4 @@ jobs:
           plugins_wakatime_sections: all
           plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugins_notable_projects: yes
-          plugins_notable_projects_projects: morchid65/projet-refonte-site
+          # Le projet a été enlevé de cette section
