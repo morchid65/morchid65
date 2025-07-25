@@ -25,6 +25,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 
+### 🚀 Actuellement
+
+[![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
 ### 🛠️ Compétences Techniques
 
 <p align="left">
