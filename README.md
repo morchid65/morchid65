@@ -37,7 +37,7 @@
 
 ### Connectons-nous !
 <p align="left">
-  <a href="URL-DE-VOTRE-LINKEDIN" target="_blank">
+  <a href="[URL-DE-VOTRE-LINKEDIN](https://www.linkedin.com/feed/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="URL-DE-VOTRE-TWITTER" target="_blank">
