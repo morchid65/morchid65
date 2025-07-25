@@ -2,7 +2,9 @@
   <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
 </p>
 
+### 📈 Analytique github
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=radical)
 
 ### 🛠️ Compétences Techniques
 
