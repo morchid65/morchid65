@@ -2,14 +2,6 @@
   <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
 </p>
 
-### 🏆 Mes Accomplissements
-
-* **Réussite du Projet Phénix :** J'ai mené à bien la refonte du site Wu Tao Academy, un projet qui a mis à l'épreuve ma persévérance et ma capacité à résoudre des problèmes complexes.
-* **Maîtrise des Outils Modernes :** J'ai développé un système de header dynamique avec `Fetch API` et j'ai acquis une maîtrise avancée du CSS pour le positionnement et l'organisation des éléments.
-* **Méthodologie de Travail :** J'ai appris à structurer un projet de manière professionnelle, en passant par plusieurs plans (A, B, C) pour trouver la solution la plus efficace.
-* **Collaboration IA :** J'ai su utiliser l'intelligence artificielle comme un outil d'aide à la structuration, tout en gardant une totale autonomie et un contrôle manuel sur le code.
-* 
-
 ### 📈 Analytique github
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=radical)
