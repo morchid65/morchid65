@@ -40,9 +40,9 @@
 
 ### 📊 Mon Activité et mes Contributions
 
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=morchid65&theme=react)
+### 🗓️ Mon Calendrier de Contributions
 
-![Contribution Grid](https://github-contributions-stats.vercel.app/api?username=morchid65&theme=radical)
+![Graphique de l'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=morchid65&theme=react)
 
 ### Connectons-nous !
 <p align="left">
