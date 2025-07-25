@@ -16,6 +16,10 @@
   <img alt="github-snake" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+### ⏱️ Mon temps de codage
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=morchid65&theme=radical)](https://github-readme-stats.vercel.app/api/wakatime?username=morchid65)
+
 ### 🛠️ Compétences Techniques
 
 <p align="left">
