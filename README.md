@@ -1,7 +1,10 @@
-# morchid65-developer-profile
+<p align="center">
+  <img src="URL_DE_VOTRE_IMAGE.png" alt="Votre bannière personnalisée">
+</p>
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=radical)
 
 ### Mes compétences
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -30,7 +33,6 @@
 - **Langues** : Français (natif), Anglais (courant).
 
 ### Connectons-nous !
-
 <p align="left">
   <a href="URL-DE-VOTRE-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -41,8 +43,4 @@
   <a href="URL-DE-VOTRE-PORTFOLIO-PERSONNEL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Personnel">
   </a>
-  </p>
-  
-  <p align="center">
-  <img src="URL_DE_VOTRE_IMAGE.png" alt="Votre bannière personnalisée">
 </p>
