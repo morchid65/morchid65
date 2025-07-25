@@ -25,9 +25,8 @@
 <p align="center">
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
 
-  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=morchid65&theme=radical)](https://wakatime.com/@morchid65)
+[![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
-
 ---
 
 ### 🐍 Mon historique de Contributions
