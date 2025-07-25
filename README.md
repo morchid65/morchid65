@@ -20,10 +20,12 @@
 
 ---
 
-### 🏆 Mes Trophées & Codage
+### 🏆 Mes Trophées 
 
 <p align="center">
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
+
+### Codage
 
 [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
