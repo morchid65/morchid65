@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="![1753450458864492532204412578897](https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1)
-" alt="Votre bannière personnalisée">
+  <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
 </p>
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=radical)
 
 ### Mes compétences
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/WampServer-000000?style=for-the-badge&logo=wampserver&logoColor=white" alt="WampServer">
   <img src="https://img.shields.io/badge/VirtualBox-20A7FE?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
   <img src="https://img.shields.io/badge/VMware-6202EE?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p>
 
