@@ -16,6 +16,10 @@
   <img alt="github-snake" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+### 🏆 Mes Trophées GitHub
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
+
 ### ⏱️ Mon temps de codage
 
 [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
