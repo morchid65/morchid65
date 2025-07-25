@@ -45,13 +45,7 @@
 - **Administration réseau** : Notions en configuration IP et gestion d'infrastructures réseau.
 - **Virtualisation** : Utilisation de VirtualBox et VMware.
 - **Langues** : Français (natif), Anglais (courant).
-
-### 📊 Mon Activité et mes Contributions
-
-![Graphique de l'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=morchid65&theme=react)
-
-![Grille de Contributions](https://github-contributions-stats.vercel.app/api?username=morchid65&theme=radical)
-
+  
 ### Connectons-nous !
 <p align="left">
   <a href="[URL-DE-VOTRE-LINKEDIN](https://www.linkedin.com/feed/)" target="_blank">
