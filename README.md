@@ -18,7 +18,7 @@
 
 ### ⏱️ Mon temps de codage
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=morchid65&theme=radical)](https://github-readme-stats.vercel.app/api/wakatime?username=morchid65)
+[![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 
 ### 🛠️ Compétences Techniques
 
