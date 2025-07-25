@@ -20,7 +20,7 @@
 
 ---
 
-### 🏆 Mes Trophées
+### 🏆 Mes Trophées 
 <p align="center">
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
 </p>
@@ -36,9 +36,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/morchid65/morchid65/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/morchid65/morchid65/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://github.com/morchid65/morchid65/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </p>
 
@@ -73,13 +73,13 @@
 
 ### Connectons-nous !
 <p align="left">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="[URL-DE-VOTRE-LINKEDIN](https://www.linkedin.com/feed/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="URL-DE-VOTRE-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://jebrilfoitih83.wixsite.com/monportefoliodedev-2" target="_blank">
+  <a href="[URL-DE-VOTRE-PORTFOLIO-PERSONNEL](https://jebrilfoitih83.wixsite.com/monportefoliodedev-2)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Personnel">
   </a>
 </p>
