@@ -8,6 +8,14 @@
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morchid65&theme=radical&hide_border=true)
 
+### 🐍 Mon historique de Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 ### 🛠️ Compétences Techniques
 
 <p align="left">
