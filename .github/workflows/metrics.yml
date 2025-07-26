@@ -14,8 +14,8 @@ jobs:
           template: classic
           config_timezone: Europe/Paris
           base: header, activity, community, repositories, metadata
-          filename: metrics.svg
-          committer_branch: metrics
+          filename: assets/metrics.svg
+          committer_branch: gh-pages
           config_plugins_languages: yes
           config_plugins_achievements: yes
           config_plugins_stars: yes
