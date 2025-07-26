@@ -11,12 +11,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: morchid65
-          output: github-metrics.svg
           template: classic
           config_timezone: Europe/Paris
           base: header, activity, community, repositories, metadata
-          plugins_followup: yes
-          plugins_lines: yes
-          plugins_wakatime: yes
-          plugins_wakatime_sections: all
-          plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          config_plugins_followup: yes
+          config_plugins_lines: yes
+          config_plugins_wakatime: yes
+          config_plugins_wakatime_sections: all
+          config_plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          filename: github-metrics.svg
