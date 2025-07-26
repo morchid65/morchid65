@@ -1,14 +1,4 @@
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150" style="border-radius: 50%; border: 4px solid white;">
-  
-  <div style="background-color: green; width: 15px; height: 15px; border-radius: 50%; position: absolute; bottom: 10px; right: 10px; border: 2px solid #23272f;">
-  </div>
-</div>
-    <h2>Kaiser</h2>
-    <p>Votre bio ici</p>
-  </div>
-  
-  <div style="flex: 1;">
+<div style="flex: 1;">
     <div align="center">
       <a href="https://github.com/morchid65">
         <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
