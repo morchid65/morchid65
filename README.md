@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
 </p>
 
-![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/assets/metrics.svg)
+[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/assets/metrics.svg)](https://github.com/morchid65))
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
