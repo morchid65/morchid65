@@ -17,7 +17,7 @@
 ![Metrics](https://github.com/morchid65/morchid65/raw/main/github-metrics.svg)
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=radical)](https://github.com/morchid65)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morchid65&theme=radical&hide_border=true)](https://github.com/morchid65)
 
 ---
