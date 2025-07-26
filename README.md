@@ -4,7 +4,7 @@
   <div style="background-color: green; width: 15px; height: 15px; border-radius: 50%; position: absolute; bottom: 10px; right: 10px; border: 2px solid #23272f;">
   </div>
 </div>
-    <h2>Sen Jung Wo</h2>
+    <h2>Kaiser</h2>
     <p>Votre bio ici</p>
   </div>
   
