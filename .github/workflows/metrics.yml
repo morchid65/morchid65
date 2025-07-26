@@ -1,8 +1,12 @@
 name: Metrics
 on:
+  # Lancement toutes les 6 heures
   schedule:
     - cron: '0 */6 * * *'
+  # Permet de lancer le workflow manuellement
   workflow_dispatch:
+permissions:
+  contents: write # Cette permission est cruciale pour que le workflow fonctionne
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,10 +19,29 @@ jobs:
           config_timezone: Europe/Paris
           base: header, activity, community, repositories, metadata
           filename: metrics.svg
-          committer_branch: gh-pages
-          config_plugins_languages: yes
-          config_plugins_achievements: yes
-          config_plugins_stars: yes
-          config_plugins_wakatime: yes
-          config_plugins_wakatime_sections: all
-          config_plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          committer_branch: gh-pages # C'est la branche où le fichier sera enregistré
+          
+          # Configuration des plugins
+          plugins:
+            # Active le plugin pour l'activité par heure
+            activity: yes
+            # Active le plugin pour les langages
+            languages: yes
+            # Active le plugin pour les réalisations
+            achievements: yes
+            # Active le plugin pour les étoiles
+            stars: yes
+            # Active le plugin pour WakaTime
+            wakatime: yes
+          
+          # Options pour les plugins
+          plugin_wakatime:
+            sections: all
+            token: ${{ secrets.WAKATIME_TOKEN }}
+          
+          # Options pour les plugins `languages`
+          plugin_languages:
+            # Vous pouvez ajouter des options ici, par exemple :
+            # ignored: html, css, ...
+            # details: yes
+            
