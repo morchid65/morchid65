@@ -17,13 +17,6 @@
   </div>
 </div>
 
-
-
-### 👋 Bonjour !
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
-</p>
-
 ### 🚀 Actuellement
 [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
 
