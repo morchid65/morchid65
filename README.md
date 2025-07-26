@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-
-
 ### 🚀 Actuellement
 [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
 
