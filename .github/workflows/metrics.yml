@@ -20,5 +20,3 @@ jobs:
           plugins_wakatime: yes
           plugins_wakatime_sections: all
           plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugins_notable_projects: yes
-          # Le projet a été enlevé de cette section
