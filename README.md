@@ -1,7 +1,7 @@
 <div align="center">
   
   <div style="width: 250px; text-align: center; margin-right: 20px;">
-    <img src="https://pin.it/4nvCbTkIp">
+    <img src="ARISE.png">
     <h2>Sen Jung Wo</h2>
     <p>Votre bio ici</p>
   </div>
