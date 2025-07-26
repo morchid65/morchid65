@@ -1,7 +1,7 @@
 <div align="center">
   
   <div style="width: 250px; text-align: center; margin-right: 20px;">
-    <img src="https://avatars.githubusercontent.com/u/votre-id-github" width="150" style="border-radius: 50%;">
+    <img src="https://pin.it/4nvCbTkIp" width="150" style="border-radius: 50%;">
     <h2>Votre Nom</h2>
     <p>Votre bio ici</p>
   </div>
