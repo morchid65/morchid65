@@ -13,10 +13,5 @@ jobs:
           user: morchid65
           template: classic
           config_timezone: Europe/Paris
-          base: header, activity, community, repositories, metadata
-          config_plugins_followup: yes
-          config_plugins_lines: yes
-          config_plugins_wakatime: yes
-          config_plugins_wakatime_sections: all
-          config_plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          base: header, activity, community, repositories, metadata, lines, followup
           filename: github-metrics.svg
