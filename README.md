@@ -3,7 +3,7 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150" style="border-radius: 50%;">
       <h3>Kaiser</h3>
-      <p>Votre bio ici</p>
+      <p style="border-color: #fff">Bienvenue sur mon profil de développeur</p>
     </td>
     <td align="center">
       <a href="https://github.com/morchid65">
