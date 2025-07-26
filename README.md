@@ -12,7 +12,6 @@
         <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
       </a>
       <br>
-      
       </div>
   </div>
 </div>
