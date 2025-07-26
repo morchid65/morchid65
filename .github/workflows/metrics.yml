@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -12,8 +12,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: morchid65
           template: classic
+          config_timezone: Europe/Paris
           base: header, activity, community, repositories, metadata
-          filename: github-metrics.svg
-          plugin_languages: yes
-          plugin_achievements: yes
-          plugin_stars: yes
+          filename: metrics.svg
+          committer_branch: metrics
+          config_plugins_languages: yes
+          config_plugins_achievements: yes
+          config_plugins_stars: yes
+          config_plugins_wakatime: yes
+          config_plugins_wakatime_sections: all
+          config_plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
