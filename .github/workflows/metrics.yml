@@ -11,8 +11,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: morchid65
-          template: github
+          template: classic
           config_timezone: Europe/Paris
           base: header, activity, community, repositories, metadata
           filename: metrics.svg
           committer_branch: gh-pages
+          plugin_languages: yes
+          plugin_achievements: yes
+          plugin_stars: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: all
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
