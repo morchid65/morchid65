@@ -11,7 +11,7 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morchid65&color=shadow red" alt="Compteur de visites">
+  <img src="https://komarev.com/ghpvc/?username=morchid65&color=highcontrast" alt="Compteur de visites">
 </p>
 
 ![Metrics](https://github.com/morchid65/morchid65/raw/main/github-metrics.svg)
