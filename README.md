@@ -1,7 +1,17 @@
-### 👋 Bonjour !
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150" style="border-radius: 50%;">
+      <h3>Kaiser</h3>
+      <blockquote>Bienvenue sur mon profil de développeur</blockquote>
+    </td>
+    <td align="center">
+      <a href="https://github.com/morchid65">
+        <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Actuellement
 [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
@@ -14,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
 </p>
 
-[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/assets/metrics.svg)](https://github.com/morchid65)
+[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg)](https://github.com/morchid65)
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
