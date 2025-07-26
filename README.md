@@ -1,3 +1,22 @@
+<div align="center">
+  
+  <div style="width: 250px; text-align: center; margin-right: 20px;">
+    <img src="https://avatars.githubusercontent.com/u/votre-id-github" width="150" style="border-radius: 50%;">
+    <h2>Votre Nom</h2>
+    <p>Votre bio ici</p>
+  </div>
+  
+  <div style="flex: 1;">
+    <div align="center">
+      <a href="https://github.com/morchid65">
+        <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
+      </a>
+      <br>
+      
+      </div>
+  </div>
+</div>
+
 ### 👋 Bonjour !
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b1c085e-cff4-4448-b8e8-a658541454d1" alt="Votre bannière personnalisée">
