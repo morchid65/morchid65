@@ -19,7 +19,7 @@ jobs:
           filename: metrics.svg
           committer_branch: main
 
-          # Configuration des plugins
+          # Active les plugins pour les différents graphiques
           plugin_activity: yes
           plugin_languages: yes
           plugin_achievements: yes
@@ -29,4 +29,3 @@ jobs:
           # Options pour WakaTime
           plugin_wakatime_sections: all
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
