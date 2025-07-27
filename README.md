@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">
+  
   [![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg)](https://github.com/morchid65)
 </p>
 
@@ -30,11 +31,13 @@
 
 ### 🏆 Mes Trophées 
 <p align="center">
+  
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
 </p>
 
 ### ⏱️ Mon temps de codage
 <p align="center">
+  
   [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
 
