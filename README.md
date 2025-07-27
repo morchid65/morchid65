@@ -24,7 +24,8 @@
 
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=morchid65&theme=yeblu&hide_border=true)](https://github.com/morchid65)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morchid65&theme=yeblu&hide_border=true)](https://github.com/morchid65)
+
 ---
 
 ### 🏆 Mes Trophées 
