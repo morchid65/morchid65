@@ -10,11 +10,11 @@
       <p align="left">
         [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
       </p>
-  ### 🌍 Autres Compétences
+      ### 🌍 Autres Compétences
       - **Administration réseau** : Notions en configuration IP et gestion d'infrastructures réseau.
       - **Virtualisation** : Utilisation de VirtualBox et VMware.
       - **Langues** : Français (natif), Anglais (courant).
-        ### Connectons-nous !
+      ### Connectons-nous !
       <p align="left">
         <a href="https://www.linkedin.com/feed/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,7 +32,7 @@
       <p align="center">
         <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
         <br>
-        <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
+        <img src="https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg" alt="GitHub Metrics" />
         <br>
         [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
         [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
@@ -43,11 +43,11 @@
       <p align="center">
         [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
       </p>
-### ⏱️ Mon temps de codage
+      ### ⏱️ Mon temps de codage
       <p align="center">
         [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
       </p>
- ### 🐍 Mon historique de Contributions
+      ### 🐍 Mon historique de Contributions
       <p align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg">
