@@ -1,17 +1,5 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150" style="border-radius: 50%;">
-      <h3>Kaiser</h3>
-      <blockquote>Bienvenue sur mon profil de développeur</blockquote>
-    </td>
-    <td align="center">
-      <a href="https://github.com/morchid65">
-        <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg" alt="GitHub Metrics" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Kaiser
+> Bienvenue sur mon profil de développeur
 
 ### 🚀 Actuellement
 [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
@@ -24,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
 </p>
 
-[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg)](https://github.com/morchid65)
+[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg)](https://github.com/morchid65)
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
@@ -34,13 +22,11 @@
 
 ### 🏆 Mes Trophées 
 <p align="center">
-  
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
 </p>
 
 ### ⏱️ Mon temps de codage
 <p align="center">
-  
   [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
 
@@ -87,13 +73,13 @@
 
 ### Connectons-nous !
 <p align="left">
-  <a href="[URL-DE-VOTRE-LINKEDIN](https://www.linkedin.com/feed/)" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="URL-DE-VOTRE-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="[URL-DE-VOTRE-PORTFOLIO-PERSONNEL](https://jebrilfoitih83.wixsite.com/monportefoliodedev-2)" target="_blank">
+  <a href="https://jebrilfoitih83.wixsite.com/monportefoliodedev-2" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Personnel">
   </a>
 </p>
