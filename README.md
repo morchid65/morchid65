@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150">
-  <h3>Kaiser</h3>
-  <blockquote>Bienvenue sur mon profil de développeur</blockquote>
 </p>
 
----
+### Kaiser
+> Bienvenue sur mon profil de développeur
 
 ### 🚀 Actuellement
 [![En cours de travail](https://img.shields.io/badge/En%20cours%20de%20travail%20sur-Mon%20projet%20Phénix-blue)](https://github.com/morchid65/mon-projet-phenix)
