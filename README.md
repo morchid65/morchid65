@@ -1,3 +1,8 @@
+<p align="center">
+  
+  <img src="https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/1753567769129.jpg" width="150" style="border-radius: 50%;">
+</p>
+
 ### Kaiser
 > Bienvenue sur mon profil de développeur
 
@@ -9,11 +14,13 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-  
+
   <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
 </p>
 
-[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg)](https://github.com/morchid65)
+<p align="center">
+  [![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg)](https://github.com/morchid65)
+</p>
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
@@ -23,15 +30,12 @@
 
 ### 🏆 Mes Trophées 
 <p align="center">
-  
   [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)](https://github-profile-trophy.vercel.app/?username=morchid65&theme=radical&no-frame=true)
 </p>
 
 ### ⏱️ Mon temps de codage
 <p align="center">
-  
-  [![wakatime
-  (https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
+  [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
 
 ---
