@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -16,10 +18,17 @@ jobs:
           base: header, activity, community, repositories, metadata
           filename: metrics.svg
           committer_branch: main
-          config_plugins_languages: yes
-          config_plugins_achievements: yes
-          config_plugins_stars: yes
-          config_plugins_wakatime: yes
-          config_plugins_wakatime_sections: all
-          config_plugins_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
+
+          # Configuration des plugins
+          plugins:
+            # Active le plugin d'activité pour les graphiques horaires
+            activity: yes
+            languages: yes
+            achievements: yes
+            stars: yes
+            wakatime: yes
+
+          # Options pour les plugins
+          plugin_wakatime:
+            sections: all
+            token: ${{ secrets.WAKATIME_TOKEN }}
