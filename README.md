@@ -14,21 +14,17 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="center">
-
+  
   <img src="https://komarev.com/ghpvc/?username=morchid65&color=green" alt="Compteur de visites">
 </p>
 
-<p align="center">
-  
-  [![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/main/metrics.svg)](https://github.com/morchid65)
-</p>
+[![GitHub Metrics](https://raw.githubusercontent.com/morchid65/morchid65/gh-pages/metrics.svg)](https://github.com/morchid65)
 
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=morchid65&show_icons=true&theme=highcontrast)](https://github.com/morchid65)
 
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=morchid65&layout=compact&theme=shadow_red)](https://github.com/morchid65)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=morchid65&theme=yeblu&hide_border=true)](https://github.com/morchid65)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=morchid65&theme=yeblu&hide_border=true)](https://github.com/morchid65)
 ---
 
 ### 🏆 Mes Trophées 
