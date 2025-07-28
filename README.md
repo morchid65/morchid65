@@ -36,7 +36,7 @@
 ### ⏱️ Mon temps de codage
 <p align="center">
   
-  [![wakatime](https://wakatime.com/badge/user/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
+  [![wakatime](https://wakatime.com/badge/morchid65/3d07be02-2a28-4eec-96eb-751c50769ce3.svg)](https://wakatime.com/@3d07be02-2a28-4eec-96eb-751c50769ce3)
 </p>
 
 ---
