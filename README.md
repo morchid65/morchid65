@@ -93,6 +93,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://jebrilfoitih83.wixsite.com/monportefoliodedev-2" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Personnel">
+    <img src="https://img.shields.io/badge/[Portfolio-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white](https://jebrilfoitih83.wixsite.com/portfolio-foitih)" alt="Portfolio Personnel">
   </a>
 </p>
